@@ -1,5 +1,13 @@
 <resources>
     <string name="app_name">ALC 4 Phase1</string>
     <string name="about_alc">About ALC</string>
+    <string name="face">image</string>
     <string name="my_profile">My Profile</string>
+    <string name="welcome_to_alc_4_0">Welcome to ALC 4.0</string>
+    <string name="name">Jack Daniyel</string>
+    <string name="track">Track: Android</string>
+    <string name="country">Country: Nigeria</string>
+    <string name="email">Email: dankhaliffx@gmail.com</string>
+    <string name="phone_number">Phone Number: 08134481662</string>
+    <string name="slack">Slack Username: dankhalif</string>
 </resources>
